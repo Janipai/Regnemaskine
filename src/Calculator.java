@@ -3,7 +3,7 @@ import javax.swing.JOptionPane;
 
 public class Calculator {
     public static void main(String[] args) {
-        //Nikolai Was here
+        //Nikolai Was here 2
         Scanner input =new Scanner(System.in);
 
         System.out.println("Skriv dit første tal");
