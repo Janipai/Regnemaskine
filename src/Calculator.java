@@ -15,7 +15,7 @@ public class Calculator {
         System.out.println("Vælg din operator");
         char operator=input.next().charAt(0);
         switch(operator){
-            case '+':
+            case '*':
                 System.out.println(tal1+tal2);
                 break;
             case '-':
